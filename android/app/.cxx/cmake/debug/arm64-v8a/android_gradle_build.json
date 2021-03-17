@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "D:/Bunlai/gitProjects/Flutter/camera_with_c/android/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Bunlai-Optistech\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a --target clean"
+	],
+	"libraries" : 
+	{
+		"convertImage-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "convertImage",
+			"buildCommand" : "C:\\Users\\Bunlai-Optistech\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a --target convertImage",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Bunlai-Optistech/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Bunlai-Optistech/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DconvertImage_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "D:/Bunlai/gitProjects/Flutter/camera_with_c/ios/Classes/converter.c",
+					"workingDirectory" : "D:/Bunlai/gitProjects/Flutter/camera_with_c/android/app/.cxx/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "D:/Bunlai/gitProjects/Flutter/camera_with_c/build/app/intermediates/cmake/debug/obj/arm64-v8a/libconvertImage.so",
+			"toolchain" : "1799666491"
+		}
+	},
+	"toolchains" : 
+	{
+		"1799666491" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Bunlai-Optistech/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Bunlai-Optistech/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android",
+      "sdkFolder": "C:\\Users\\Bunlai-Optistech\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\build\\app\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app",
+      "makeFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\.cxx",
+      "cxxFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\Bunlai-Optistech\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061",
+      "ndkVersion": "22.0.7026061",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\build\\app\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\build\\app\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug\\x86",
+  "jsonFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\build\\app\\intermediates\\cmake\\debug\\obj\\x86",
+  "buildCommandFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cxx\\debug\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cxx\\debug\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cxx\\debug\\x86\\build_generation_state.json",
+    "cacheKeyFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cxx\\debug\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\Bunlai\\gitProjects\\Flutter\\camera_with_c\\android\\app\\.cxx\\cmake\\debug\\x86\\compile_commands.json"
+}

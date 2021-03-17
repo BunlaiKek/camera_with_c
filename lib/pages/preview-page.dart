@@ -13,8 +13,9 @@ class PreviewPage extends StatelessWidget {
       appBar: AppBar(title: Text('Image Preview'),),
       body: Center(
         child: Image.file(
-          File(imagePath),
-        ),
+            File(imagePath),
+            fit: BoxFit.cover,
+          ),
       ),
     );
   }
