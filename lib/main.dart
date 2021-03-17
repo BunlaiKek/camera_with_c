@@ -1,6 +1,5 @@
 import 'dart:async';
 import 'dart:io';
-
 import 'package:camer_with_c/pages/preview-page.dart';
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
@@ -51,8 +50,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
-  
-
   StreamController _isCameraReadyController = BehaviorSubject<bool>();
   StreamController _allPermissionsAllowedController = BehaviorSubject<bool>();
   CameraController _cameraController;
@@ -190,7 +187,7 @@ class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
     }
   }
 
-    @override
+  @override
   void initState() {
     print('state.....: initState');
     WidgetsBinding.instance.addObserver(this);
